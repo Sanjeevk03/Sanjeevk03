@@ -9,7 +9,7 @@
 
 - 🌱 I’m currently learning **To make super smooth and fast apps/websites/AI-Models**
 
-- 💬 Ask me about **html, css, java, kotlin, Python, Php, Node**
+- 💬 Ask me about **HTML, CSS, java, kotlin, Python, Php, Node**
 
 - 📫 How to reach me **sanjeevk032009@gmail.com**
 
